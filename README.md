@@ -1,4 +1,4 @@
-[![MasterHead](https://i.giphy.com/media/12W5Sg2koWYnwA/giphy.webp)]
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 <h1 align="center">Hi 👋, I'm Dhruv Mishra</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
