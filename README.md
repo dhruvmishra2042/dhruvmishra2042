@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **ReactJS,NodeJS,C++, data structure and algorithm**
 
-- 💬 Ask me about **Frontend end developement ful-stack development**
+- 💬 Ask me about **Frontend end developement full-stack development**
 
-- 📫 How to reach me **shinningstar2137@gmail.com, 20ce3010@rgipt.ac.i**
+- 📫 How to reach me **shinningstar2137@gmail.com, 20ce3010@rgipt.ac.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XE8IO_kXYmH_aS_OC6WEjarpC55EeplW/view?usp=drive_link](https://drive.google.com/file/d/1XE8IO_kXYmH_aS_OC6WEjarpC55EeplW/view?usp=drive_link)
 
